@@ -1,0 +1,3 @@
+product_id,name,price,quantity,product_type
+E101,Laptop,50000.0,3,Electronics
+Rice,G101,60.0,20,Grocery

@@ -1,0 +1,16 @@
+[
+    {
+        "product_id": "E101",
+        "name": "Laptop",
+        "price": 50000.0,
+        "quantity": 3,
+        "product_type": "Electronics"
+    },
+    {
+        "product_id": "Rice",
+        "name": "G101",
+        "price": 60.0,
+        "quantity": 20,
+        "product_type": "Grocery"
+    }
+]
